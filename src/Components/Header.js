@@ -1,6 +1,7 @@
 import React from 'react';
+import '../App.css';
 export const Header=()=>{
     return(
-        <h1>Expanse Tracker App</h1>
+        <h2 className="head">Expanse Tracker App</h2>
     )
 }

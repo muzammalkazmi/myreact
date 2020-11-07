@@ -8,7 +8,7 @@ import {Addtransaction} from './Components/Addtransaction';
 
 function App() {
   return (<
-    div>
+    div className="fullContainer">
         <Header/>
         <Balance/>
         <Accountsummary/>
